@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jovita-0406",
+  "private_key_id": "00dedb5d97e864272496b882f3ea0b275b394403",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDp6HoC8EG97s09\niZOVHSIpnol7Qlbn92ItFKnaUxCzbZdMzRAscKw+o2/ocaVufizl+1ZPTy5YhcWZ\n+b3hHwOyz1M1FiJmieeErcNCkAcLZNI2QpOF9nIOlTZ20M2xph+s1NfCADAtSmFy\nMbVeiQNHX7cv2CR14yFDw95I5NEP0/pIureu/hg4TdRxpvJehB9c8qItsIPa/WY8\nD+zsHCKjrmapQdDvCPoGfnlfvn6GuexOkc4EF3tk8c9I33jge/nZGXcBPYSDZ3XM\ngpzCSg1XLWC1O1/IBwfWDxwu4IlPaxU2QuYchVQWUEHOtaV80X/4xqV406r2o5yB\nGdxW445xAgMBAAECggEAAkp5enKjtDJk7nW83SyjP2Ta/Brw2rYCr0YY6UdfviAk\nR5dpEYRbfYQQhiZpzECeXDTHWkDAZ5PM1QacCFrLSJqs+hPAy8ANRVCF3W6ncQJA\naFFj3D+nC5NEzKpcH2GtBP5zLAZgMmtcc7e+quG851utwcFUTxbFxkICePSLwyPH\nr7FmC5vLgcma8r981/8CQAgzVO72tVlBCBOFj1jKJChacK19tKytE3EZtLnGkma+\nXTzdVF/ZyYvnPILcaxxfKosCDbZ4fXbcWLIq7vdM4kkr7gUpCq/lo35NVMDea9Ep\nFqNpkF87ccwBOKKSQLd2DoM2Fo/6pW6iBkkdOnosuQKBgQD8Y2P74pflzz1naPLL\nwnh2wUMui1GMInGB4pzuyjUc/RFwcobj57gTANNV7ei57HdayTNlD7i4hkjS63sh\n2M0VNRHIg1z+3RTDwS+7Gd/OY4zUZSepTdWYspI0ZLKrGPyfzTt5zOr+Eg2sJxZ4\nvAypiozOnjTHfQHsxaAqqpMgOQKBgQDtQWKafj338t2UoG9Q16FFlPmKA939IU34\nqGWHFXL3g2seYjryi9M4b7y6Unv2SUVnZt3cElw0OpCLVIdqVbBHPGn0f4/6FagS\nMJvdqoPuQO2vlTBBIdOULIj9gQN471tm+6YtVOs48LAOfqy63xgvIZffnmuONd5T\nfDSKgFTv+QKBgBLJGxIOhZvXVwyxZREBgpHkRKncOM+jaKtwQJoNdvKXa4rhG2Uv\nRCY184T71kywaxnYy/iDuQ4TAKyiVmHojys67f3suSlHL1p6sKDOhjgIdN0CQnd5\nkaJx+CvqKtpNW9BRKFIijIMouNfNeQC3joG4DE78u5T1mwUSmJ9UXusRAoGAY/4r\ntZtBONAWDT70y2il4rKf3Ug19ipkN0mZyK4Ej0bHDb4uw+ykb+O/8fMzpaBJ7QOQ\nu+DNFYIdS2uryugkbFGNAmwE3UzlUg1Ek8763Z5lzpudA8Zi6s8+SUFnmj+fES88\nYVyp6oyeVu2SlQvToIGTBb8562zOr/boGftuUNkCgYA7Jdw+bQCsuJBKnWN74e04\nciQI7tRZ8rwIVkwE4Y+mmtcFSsFP4fSjL7tu88+j7XjRymdapvEXOcGDONNMMFP6\n/zVnLNRHmeUlhkPxOADFw/9vs520K2uCU0lYoYCu03Qu8YbpXhCo99YwwsQ6/MmO\nF5dY15MikqHan+OCnUAZ9g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jovita@jovita-0406.iam.gserviceaccount.com",
+  "client_id": "115873847963048700920",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jovita%40jovita-0406.iam.gserviceaccount.com"
+}
